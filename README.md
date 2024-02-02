@@ -5,7 +5,7 @@ Project consists of a Python script that analyzes crime rate data. The data is c
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages Used</h2>
 
 - <b>Python</b>
 
