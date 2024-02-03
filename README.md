@@ -1,4 +1,4 @@
-# <h1>Crime Rate Data Analysis with Python</h1>
+<h1>Crime Rate Data Analysis with Python</h1>
 
 <h2>Description</h2>
 Project consists of a Python script that analyzes crime rate data. The data is cleaned, sorted, and analyzed using filtering, graphs, and predictive analysis.
