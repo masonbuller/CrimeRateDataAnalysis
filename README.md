@@ -8,7 +8,6 @@ Project consists of a Python script that analyzes crime rate data. The data is c
 <h2>Languages Used</h2>
 
 - <b>Python</b>
-- <b>Miniconda</b>
 
 <h2>Frameworks Used</h2>
 
@@ -25,6 +24,7 @@ Project consists of a Python script that analyzes crime rate data. The data is c
 
 - <b>Windows 11</b>
 - <b>VS Code</b>
+- <b>Miniconda</b>
 
 
 <!--
