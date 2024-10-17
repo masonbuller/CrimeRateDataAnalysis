@@ -1,8 +1,9 @@
 <h1>Crime Rate Data Analysis with Python</h1>
 
 <h2>Description</h2>
-Project consists of a Python script that analyzes crime rate data. The data is cleaned, sorted, and analyzed using filtering, graphs, and predictive analysis.
-<br />
+<p>Project consists of a Python script that analyzes crime rate data. The data is cleaned, sorted, and analyzed using filtering, graphs, and predictive analysis.</p>
+<p>This project analyzes a csv file of crime data. This data contains categories like report year, agency code, agency jurisdiction (city and state), population, and reports per year for homicides, rapes, assaults, and robberies. Pandas is used to import the data from the csv file, then the data is cleaned using techniques like dropping rows that don't have a specified city and state or year.</p>
+<br/>
 
 
 <h2>Languages Used</h2>
