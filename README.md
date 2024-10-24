@@ -25,15 +25,20 @@
 
 - <b>Windows 11</b>
 - <b>VS Code</b>
-- <b>Miniconda</b>
+- <b>Anaconda</b>
 
+<br>
+<h2>Examples</h2>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+<p>This graph displays the average monthly number of homicides, rapes, assaults, and robberies for each year.</p>
+<img src="https://imgur.com/twPDdmv.png" height="60%" width="60%" alt="Crime Average Graph"/>
+
+<br>
+
+<p>This graph displays the average monthly number of assaults for each year in the state of New York.</p>
+<img src="https://imgur.com/CtRJpi2.png" height="60%", width="60%" alt="Assault Average Graph"/>
+
+<br>
+
+<p>This graph displays the predicted total number of violent crimes for the year vs the actual total number of violent crimes for the year.</p>
+<img src="https://imgur.com/19hKuZu.png" height="80%", width="80%" alt="Total Predicted Crimes"/>
