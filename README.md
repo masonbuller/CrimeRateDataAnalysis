@@ -30,15 +30,15 @@
 <br>
 <h2>Examples</h2>
 
-<p>This graph displays the average monthly number of homicides, rapes, assaults, and robberies for each year.</p>
+<p>A plot of the number of homicides, rapes, assaults, and robberies, reported monthly and averaged per year from 1975 to 2015.</p>
 <img src="https://imgur.com/twPDdmv.png" height="60%" width="60%" alt="Crime Average Graph"/>
 
 <br>
 
-<p>This graph displays the average monthly number of assaults for each year in the state of New York.</p>
+<p>A plot of the number of assaults, reported monthly and averaged per year from 1975 to 1990 in the state of New York.</p>
 <img src="https://imgur.com/CtRJpi2.png" height="60%", width="60%" alt="Assault Average Graph"/>
 
 <br>
 
-<p>This graph displays the predicted total number of violent crimes for the year vs the actual total number of violent crimes for the year.</p>
+<p>A plot of the predicted total number of violent crimes vs the actual total number of violent crimes each year from 1975 to 2015.</p>
 <img src="https://imgur.com/19hKuZu.png" height="80%", width="80%" alt="Total Predicted Crimes"/>
